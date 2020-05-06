@@ -48,6 +48,6 @@ If impersonating, enter the name used for impersonation.
 
 ![program](https://user-images.githubusercontent.com/52772923/64474926-7cd38200-d1b6-11e9-80c3-e563a77aa0fe.png)
 
-6. Sending... Complete!
+8. Sending... Complete!
 
 ![mail](https://user-images.githubusercontent.com/52772923/64474933-970d6000-d1b6-11e9-827d-220ce9605dcc.png)
